@@ -1,0 +1,12 @@
+/node_modules
+/p_h5
+/src/lib/
+/src/global/fonts
+
+
+/docs
+/.vscode
+node_modules
+.eslintrc.js
+package.json
+package-lock.json
